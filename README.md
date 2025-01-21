@@ -62,7 +62,7 @@ O sistema utiliza o padrão **Pipes and Filters**, onde cada filtro realiza uma 
 
 1. **Clone o Repositório**:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/Edu-Spinelli/pipes-and-filters.git
    cd Trabalho_ATA2
    ```
 
