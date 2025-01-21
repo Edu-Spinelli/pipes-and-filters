@@ -1,0 +1,16 @@
+message,count
+Server started,2
+User logged in,4
+Backup started,1
+Backup completed,1
+User logged out,3
+Server restarted,1
+Scheduled maintenance started,1
+Scheduled maintenance completed,1
+New user registered,1
+Data synchronization started,1
+Data synchronization completed,1
+Service health check passed,1
+Server shutting down,1
+Server maintenance started,1
+Server maintenance completed,1

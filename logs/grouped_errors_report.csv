@@ -1,0 +1,11 @@
+message,count
+Database connection failed,3
+Timeout while connecting to service,1
+Unauthorized access attempt,1
+Disk write failure,1
+Service unavailable,1
+Invalid password attempt,1
+Network timeout,1
+API request failed,1
+Corrupted database entry,1
+SSL certificate error,1

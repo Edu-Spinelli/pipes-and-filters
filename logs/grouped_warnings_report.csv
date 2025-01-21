@@ -1,0 +1,9 @@
+message,count
+Disk space low,1
+High memory usage,1
+Network latency detected,1
+Low disk space,1
+CPU temperature high,1
+Configuration file missing,1
+Memory leak detected,1
+Disk nearing full capacity,1
