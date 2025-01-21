@@ -63,7 +63,7 @@ O sistema utiliza o padrão **Pipes and Filters**, onde cada filtro realiza uma 
 1. **Clone o Repositório**:
    ```bash
    git clone https://github.com/Edu-Spinelli/pipes-and-filters.git
-   cd Trabalho_ATA2
+   cd pipes-and-filters
    ```
 
 2. **Certifique-se de ter o Python instalado**:
